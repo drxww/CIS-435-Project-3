@@ -1,5 +1,12 @@
 # CIS-435-Project-3
 
+## Links for Group Evals
+
+https://github.com/drxww/CIS-435-Projects
+https://github.com/86ramen/CIS435-Fall2026/blob/main/Project%203/GroupEval.docx
+
+# Setup & Run
+
 Download and install php and include it in path environment variables.
 
 Then go to the project directory and run
@@ -27,11 +34,3 @@ http://localhost:8080/index.php
 <img width="780" height="1097" alt="Screenshot 2026-11-10 010536" src="https://github.com/user-attachments/assets/6c3d3c3d-444e-4416-9cd0-4535f8a5b825" />
 
 <img width="781" height="1099" alt="Screenshot 2026-11-10 010543" src="https://github.com/user-attachments/assets/48fef985-5cdb-4b9e-8063-cd8ab8b3a813" />
-
-
-## Links for Group Evals
-
-https://github.com/drxww/CIS-435-Projects
-
-
-
