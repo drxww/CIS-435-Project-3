@@ -6,6 +6,8 @@ https://github.com/drxww/CIS-435-Projects
 
 https://github.com/86ramen/CIS435-Fall2026/blob/main/Project%203/GroupEval.docx
 
+Quen GroupEval CIS 435.pdf
+
 ## Setup & Run
 
 Download and install php and include it in path environment variables.
