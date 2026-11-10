@@ -6,7 +6,7 @@ https://github.com/drxww/CIS-435-Projects
 
 https://github.com/86ramen/CIS435-Fall2026/blob/main/Project%203/GroupEval.docx
 
-Quen GroupEval CIS 435.pdf
+https://github.com/quenwill/CIS435-Fall2026/blob/1a2a305a8826b78d27b45321885338e6b26abb49/Quen%20GroupEval%20CIS%20435.pdf
 
 ## Setup & Run
 
