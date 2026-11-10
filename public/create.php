@@ -1,5 +1,7 @@
 <?php
 
+session_start();
+
 /* The following two lines include the validation and storage functions needed for
 task creation. */
 require_once __DIR__ . '/../src/validation.php';
@@ -46,6 +48,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         // The following command saves the updated task list to the JSON file.
         save_tasks($tasks);
+
+        // Flash message for task creation
+        $_SESSION['flash'] = 'Task created successfully!';
 
         /* The following command redirects the page back to the task list after
         successful creation. */
@@ -172,7 +177,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
             <!-- The following line submits the task information to be processed by the PHP implementation. -->
 
-            <button type="submit">Create Task</button>
+            <button type="submit" class="button">Create Task</button>
 
         </form>
 

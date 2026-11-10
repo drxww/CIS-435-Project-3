@@ -1,4 +1,7 @@
 <?php
+
+session_start();
+
 require_once __DIR__ . '/../src/storage.php';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
@@ -26,6 +29,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         if ($found) {
             save_tasks($tasks);
+
+             if ($action === 'complete') {
+                $_SESSION['flash'] = 'Task status updated successfully!';
+            } elseif ($action === 'delete') {
+                $_SESSION['flash'] = 'Task deleted successfully!';
+            }
         }
     }
 }
