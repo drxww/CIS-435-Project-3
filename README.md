@@ -1,11 +1,12 @@
 # CIS-435-Project-3
 
-## Links for Group Evals
+### Links for Group Evals
 
 https://github.com/drxww/CIS-435-Projects
+
 https://github.com/86ramen/CIS435-Fall2026/blob/main/Project%203/GroupEval.docx
 
-# Setup & Run
+## Setup & Run
 
 Download and install php and include it in path environment variables.
 
