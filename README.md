@@ -18,6 +18,12 @@ And visit this site
 
 http://localhost:8080/index.php
 
+<img width="1383" height="883" alt="Screenshot 2026-11-10 115951" src="https://github.com/user-attachments/assets/813e7ffc-f6cf-4bc8-bf82-7d319bee1139" />
+
+<img width="688" height="883" alt="Screenshot 2026-11-10 120006" src="https://github.com/user-attachments/assets/2aa59476-d9ea-492b-b04e-24b3b6f053a2" />
+
+<img width="312" height="721" alt="Screenshot 2026-11-10 120025" src="https://github.com/user-attachments/assets/80925437-21fb-4e43-98ab-0f2614720352" />
+
 <img width="1919" height="1112" alt="Screenshot 2026-11-10 010202" src="https://github.com/user-attachments/assets/ee6b9daf-2899-4d8f-8314-f0fec18bff53" />
 
 <img width="1919" height="1112" alt="Screenshot 2026-11-10 010402" src="https://github.com/user-attachments/assets/f0e4007c-3244-4a65-a0a0-6bdbf37489d2" />
